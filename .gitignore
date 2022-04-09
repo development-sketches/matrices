@@ -1,0 +1,14 @@
+.idea/
+build/
+out/
+
+HELP.md
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+
+target/
+
+# IntelliJ IDEA Project Files
+*.iml
+
+*.class
